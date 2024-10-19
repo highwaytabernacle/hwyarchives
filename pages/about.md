@@ -8,26 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="objects/small/id_6607.png" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Highway's Archive
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Welcome to the digital archive of Highway Mission Tabernacle in Philadelphia, PA. Highway was founded in 1894 and is a member of the Assemblies of God denomination. This collection includes photos, minutes, newspapers, programs, letters, and more from across Highway's history. If you're looking for personal information, like membership cards or baptism records, or to suggest a correction, please contact archivist@highwaytabernacle.org. Please note that for objects without specific named dates, date ranges have been estimated. Please contact archivist@highwaytabernacle.org for more detailed date information.
